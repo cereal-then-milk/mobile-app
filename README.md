@@ -1,10 +1,10 @@
-## Music Alert 
+# Music Alert 
 
-### App Description
+## App Description
 
 Allows those that follow music to stay up to date on when artists are releasing albums or their songs.
 
-### App Idea Evaluation
+## App Idea Evaluation
 
 - **Mobile**: Real time notifications of when albums are released, maybe maps of other users (?)
 - **Story**: Allow users to follow information on their favorite artist's releases
@@ -13,8 +13,9 @@ Allows those that follow music to stay up to date on when artists are releasing 
 - **Scope**: release a single genre of music first / release on college campuses because that is a large demographic of music listeners
 
 ---
+## Product Spec Design 
 
-## 1. User Stories (Required and Optional)
+### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
 
@@ -31,7 +32,7 @@ Allows those that follow music to stay up to date on when artists are releasing 
  * Show information on artist merchandise/website/social medias or where their music is for sale
  * Flow navigation from registration screen to interests survey
 
-## 2. Screen Archetypes
+### 2. Screen Archetypes
 
  * Login Screen
      * User can login
@@ -52,7 +53,7 @@ Allows those that follow music to stay up to date on when artists are releasing 
      * User can edit their settings
 
 
-## 3. Navigation
+### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
@@ -75,10 +76,10 @@ Allows those that follow music to stay up to date on when artists are releasing 
 
 ---
 
-### Wireframes
+## Wireframes
 // TODO: Add Wireframe Images
 
 ---
 
-### App Pitch Presentation
+## App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
